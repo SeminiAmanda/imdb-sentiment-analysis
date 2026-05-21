@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Large folders
+sentiment_model/
+results/
+rawData/
+
+# Cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Large data files
+*.csv
+*.pkl
+*.joblib
+
+# Only allow small images if you want
+# !*.png
