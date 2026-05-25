@@ -1,22 +1,7 @@
-# Core App
-streamlit==1.33.0
-
-# NLP / Transformers stack
-transformers>=4.40.0
-datasets==2.18.0
-accelerate==0.29.3
-
-# PyTorch (stable for Streamlit Cloud)
-torch==2.12.0
-
-# Data processing
-pandas==2.2.1
-numpy==1.26.4
-
-# Machine Learning (IMPORTANT: stable version combo)
-scikit-learn==1.4.2
-
-# Visualization
-matplotlib==3.8.4
-seaborn==0.13.2
-wordcloud==1.9.3
+streamlit
+torch
+transformers
+pandas
+numpy
+matplotlib
+wordcloud
